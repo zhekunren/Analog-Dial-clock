@@ -10,13 +10,13 @@ The code ``Clock-v0.1`` under the folder ``./Code`` and the hardware file ``Cloc
 ## Some pictures
 The following pictures are mine.  
 * Actual picture  
-  ![real0](./images/real0.jpg)
-
+  <img src="./images/real0.jpg" width="200" height="300" alt="real0"/><br/>
+  
 * Dial interface  
-  ![real1](./images/real1.jpg)
+  <img src="./images/real1.jpg" width="200" height="300" alt="real1"/><br/>
 
 * Main menu  
-  ![real2](./images/real2.jpg)  
+  <img src="./images/real2.jpg" width="200" height="300" alt="real2"/><br/> 
 
 ## End
 That's all. Just for backup.
