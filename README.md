@@ -10,13 +10,13 @@ The code ``Clock-v0.1`` under the folder ``./Code`` and the hardware file ``Cloc
 ## Some pictures
 The following pictures are mine.  
 * Actual picture  
-    ![real0](https://github.com/ericrenstudio/Analog_Clock-_Based_On_Stm32/tree/master/images/real0.jpg)
+  ![real0](./images/real0.jpg)
 
 * Dial interface  
-  ![real1](https://github.com/ericrenstudio/Analog_Clock-_Based_On_Stm32/tree/master/images/real1.jpg)
+  ![real1](./images/real1.jpg)
 
 * Main menu  
-  ![real2](https://github.com/ericrenstudio/Analog_Clock-_Based_On_Stm32/tree/master/images/real2.jpg)  
+  ![real2](./images/real2.jpg)  
 
 ## End
 That's all. Just for backup.
